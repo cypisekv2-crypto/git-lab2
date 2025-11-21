@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Kurs: Technologie DevOps 2025
+=======
+Kurs: Technologie DevOps
+Kurs: DevOps
+>>>>>>> 108f1b7 (Dodano linię z nazwą kursu)
